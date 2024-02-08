@@ -1,0 +1,8 @@
+[user]
+	name = Sofia Ubeda
+	email = sofia.ubeda1@educamadrd.org
+[code]
+	editor = code --wait
+[core]
+	autocrtlf = true++++++++++++++++
+	editor = code --wait
